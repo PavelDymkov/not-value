@@ -1,4 +1,4 @@
-# not-value
+# not
 
 The **not** function is an alphabetic analogue of the unary operator **!**.
 It is used to increase the readability of the code.
