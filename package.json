@@ -1,7 +1,7 @@
 {
   "name": "not-value",
-  "version": "1.0.0",
-  "description": "The inverse value function.",
+  "version": "1.0.1",
+  "description": "The package is deprecated.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -11,12 +11,16 @@
     "url": "git+https://github.com/PavelDymkov/not-value.git"
   },
   "keywords": [
-    "not", "inverse"
+    "not",
+    "inverse"
   ],
   "author": "Pavel Dymkov <dymkov86@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/PavelDymkov/not-value/issues"
   },
-  "homepage": "https://github.com/PavelDymkov/not-value#readme"
+  "homepage": "https://github.com/PavelDymkov/not-value#readme",
+  "dependencies": {
+    "logical-not": "^1.0.0"
+  }
 }

@@ -1,24 +1,8 @@
-# not
+# Logical NOT Function Mirror
 
-The **not** function is an alphabetic analogue of the unary operator **!**.
-It is used to increase the readability of the code.
-
-For example:
-
-```js
-import not from "not-value";
-
-if(not("foo".includes("bar"))) {
-    console.log("baz");
-}
-```
-
-## Installation
+This is a mirror of the [logical-not](https://www.npmjs.com/package/logical-not) package.
+This package is deprecated. Please use:
 
 ```sh
-$ npm install not-value
+$ npm install logical-not
 ```
-
-## License
-
-MIT License (see `LICENSE` file).
